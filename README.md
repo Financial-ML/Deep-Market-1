@@ -1,6 +1,3 @@
-Deep Market that analyse Forex market.
-
-
 # Deep-Market-1
 
 ### Overview
