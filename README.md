@@ -2,7 +2,7 @@
 
 ### Overview
 
-In Deep Market 1 we develop deep learning Algorithm for time series prediction specifically for finance data and apply it in forex Market.
+In Deep Market-1 we develop deep learning Algorithm for time series prediction specifically for finance data and apply it in forex Market.
 
 # Analyzer Components
 
@@ -17,21 +17,19 @@ In Deep Market 1 we develop deep learning Algorithm for time series prediction s
 
 ## Backtest
 
-Pull the Dataset for any symbol in any period of time in Forex market that contain the basic Features
-(open, high, low, close).
+in Backtest we test the model performance and measure the profit of the model in a specific period.
 
    
 ## Feature
 
-In Feature we calculate the machine learning Feature based on this research [(here)](http://www.wseas.us/e-library/conferences/2011/Penang/ACRE/ACRE-05.pdf).
+In Feature we calculate the Feature based on this research [(here)](http://www.wseas.us/e-library/conferences/2011/Penang/ACRE/ACRE-05.pdf).
 
 
-## MLT
-
-In Feature-Calculator we calculate the machine learning Feature based on this research [(here)](http://www.wseas.us/e-library/conferences/2011/Penang/ACRE/ACRE-05.pdf).
+## MLP
+Is a Deep Learning algorithm that we used to implement on our project to learn more a about it [(here)](https://en.wikipedia.org/wiki/Multilayer_perceptron).
 
 
 ## Data
 
-In Feature-Calculator we calculate the machine learning Feature based on this research [(here)](http://www.wseas.us/e-library/conferences/2011/Penang/ACRE/ACRE-05.pdf).
+In Data we extract the necessary data to feed it into the algorithm.
 
